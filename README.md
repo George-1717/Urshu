@@ -1,1 +1,2 @@
-# Urshu-Interactive-
+# Urshu
+A interactive story about a cat.
